@@ -1,6 +1,6 @@
 # Kang Minsu
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmsk&layout=demo&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmsk&layout=compact&theme=radical)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms920612)](https://solved.ac/kms920612)
 
