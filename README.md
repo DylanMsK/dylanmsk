@@ -1,8 +1,12 @@
 # Kang Minsu
 
+<!--
+![dylanmsk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanmsk&show_icons=true&theme=radical)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmsk&layout=compact&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms920612)](https://solved.ac/profile/kms920612)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms920612)](https://solved.ac/kms920612)
+</div>
 
 <br />
 
@@ -34,7 +38,10 @@
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </a>
-<a href="https://www.sourcetreeapp.com/" target="_blank"> <img align="left" alt="SourceTree" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg"/> </a>
+<a href="" target="_blank"> <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img align="left" alt="SourceTree" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg"/> </a>
+
+
 
 <br />
 <br />
